@@ -24,7 +24,7 @@ public class PizzaWithMashrooms extends Pizza{
         else if(size.equals("medium")){
             return cost;
         }
-        else return cost + 0.6;
+        else return cost + 0.5;
 
     }
 
